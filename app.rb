@@ -17,8 +17,4 @@ class App < Sinatra::Base
     erb :display_puppy
   end
 
-  # get  'puppy' do
-  #      @puppy
-  #     erb :display_puppy
-  # end
 end
